@@ -47,7 +47,9 @@ class TodoList extends Component {
       </div>
       <TodoItems entries={this.state.items}/>
     </div>
-  );
+    );
+
+  }
 
 }
  
